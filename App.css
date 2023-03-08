@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.h1{
+  font-family: 'Press Start 2P', cursive;
+}
+
+.p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.p1{
+  font-family: 'Dancing Script', cursive;
+}
